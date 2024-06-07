@@ -26,3 +26,6 @@ Acima de 40,0
 Obesidade
 grau III
 Aqui o sinal é vermelho, com forte probabilidade de já existirem doenças muito graves associadas. O tratamento deve ser ainda mais urgente.
+
+
+![IMC](https://github.com/LuizRicardo122343/calculadoradeimcweb/assets/75053254/65a47c7d-daf8-417a-9799-e8e92808a97b)
